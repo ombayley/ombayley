@@ -6,11 +6,9 @@
 
 ---
 
-## About Me
-
-- 🔭 I’m currently working on ML guided chemical automation solutions for organic chemistry
-- 💬 Ask me about **[Your Areas of Expertise]**
-- 📫 How to reach me: **[your.email@example.com]**
+- 🔭 I’m currently working on ML guided chemical automation solutions for organic chemistry.
+- 🌱 I’m currently trying to learn more about software design patterns and Neural Network architectures.
+  
 ---
 
 ## 🛠️ Languages and Tools
@@ -19,20 +17,31 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js" />
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,arduino,raspberrypi,blender,anaconda,pycharm,rider,webstorm,clion" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,anaconda,arduino,raspberrypi,netlify,blender,pycharm,rider,webstorm,clion" />
 </p>
 
 <hr>
+
 ---
 
 ## Get in Touch
+<br>
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
+<div align="center">
+  <a href="o.m.bayley@uva.nl">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ollybayley" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ollybayley.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
 
 Feel free to reach out if you have any questions or just want to connect!
 
 ---
-
-*This README was generated with ❤️ and a dash of ☕.*
