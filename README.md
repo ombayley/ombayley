@@ -24,14 +24,14 @@
 <br>
 
 <div align="center">
-  <a href="o.m.bayley@uva.nl">
+  <a href="mailto:o.m.bayley@uva.nl">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ollybayley" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ollybayley.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000" target="_blank"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe" />
   </a>
 </div>
 
