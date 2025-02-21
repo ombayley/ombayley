@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,anaconda,arduino,raspberrypi,netlify,blender,pycharm,rider,webstorm,clion" />
 </p>
 
-<hr>
-
 ---
 
 ## Get in Touch
@@ -38,9 +36,6 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<hr>
-
 
 Feel free to reach out if you have any questions or just want to connect!
 
