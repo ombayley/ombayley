@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js" />
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,anaconda,arduino,raspberrypi,netlify,blender,pycharm,rider,webstorm,clion" />
 </p>
 
