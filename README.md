@@ -19,7 +19,7 @@ I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://w
 Orginally a pure chemist, my focus has been on natural product total synthesis and drug development (NZ - Masters + Industry). After a few years of this I moved to Molecular Machine research (UK - PhD) and subsequently to chemical automation (Netherlands - Post-Doc).
 
 - 🔭 My current work focuses on the automation of chemical reaction development which involves:
-    1) Automation of chemical analysis (HPLC, Mass Spec, NMR and UV) both interms of hardware data processing.
+    1) Automation of chemical analysis (HPLC, Mass Spec, NMR and UV) both hardware automation data processing.
     2) Development of new hardware for reaction execution
     3) Machine Learning guided reaction condition selection
 
