@@ -25,7 +25,7 @@ Orginally a pure chemist, my focus has been on natural product total synthesis a
 
 - ✏️ Python / C++ / C# - Mostly Python (Scheduling and ML) with low level device control in C++ or C#
 - 🌱 Working on upskilling my C# and .NET familiarity
-- 📙 Check out my <a href="https://www.noelresearchgroup.com/">resume<a>.
+- 📙 Check out my <a src="./Oliver Bayley CV_online.pdf">resume<a>.
   
 
 ### 🛠️ Languages and Tools
