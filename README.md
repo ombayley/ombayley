@@ -1,39 +1,39 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=8000&lines=Hi+There!+👋;+I'm+Olly+Bayley!;" />
-</h1>
 
-#### A Post-Doctoral Researcher in the Noel Reserach Group at the University of Amsterdam with a a background in chemical synthesis and hardware automation. 
+<h1>Hi there, I'm <a href="https://ollybayley.netlify.app/">Olly</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-- 🔭 I’m currently working on ML guided chemical automation solutions for organic chemistry.
-- 🌱 I’m currently trying to learn more about software design patterns and Neural Network architectures.
+<div align="center">
+    <h3>🙎 Olly Bayley | 💻 Chemical Automation | 📍 New Zealand, UK, Netherlands </h3>
+    <a href="mailto:o.m.bayley@uva.nl">
+      <img src="https://img.icons8.com/?size=100&id=19408&format=png&color=000000" alt="Gmail" width="40"/>
+    </a>
+    <a href="https://linkedin.com/in/ollybayleynz/" target="_blank">
+      <img src="https://img.icons8.com/color/48/linkedin--v1.png" alt="LinkedIn" width="40"/>
+    </a>
+    <a href="https://ollybayley.netlify.app/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000" alt="Website" width="40"/>
+    </a>
+</div>
+    
+### About Me
+A Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a a background in chemical synthesis and hardware automation. 
+
+- 🔭 Currently working on ML guided chemical automation solutions for organic chemistry.
+- ✏️ Python / C++ / C#
+- 🌱 Working on upskilling my C# and .NET familiarity
+- 📙 Check out my <a href="https://www.noelresearchgroup.com/">resume<a>.
   
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js" />
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,git,github,anaconda,arduino,raspberrypi,netlify,blender,pycharm,rider,webstorm,clion" />
+  <img src="https://skillicons.dev/icons?i=pytorch,arduino,raspberrypi,vscode,pycharm" />
 </p>
 
 ---
-
-## Get in Touch
-<br>
-
-<div align="center">
-  <a href="mailto:o.m.bayley@uva.nl">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ollybayleynz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ollybayley.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe" />
-  </a>
-</div>
 
 Feel free to reach out if you have any questions or just want to connect!
 
