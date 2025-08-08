@@ -15,26 +15,33 @@
 </div>
     
 ### About Me
-A Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a a background in chemical synthesis and hardware automation. 
+I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a a background in chemical synthesis and hardware automation.
+Orginally a pure chemist, my focus has been on natural product total synthesis and drug development (NZ - Masters + Industry). After a few years of this I moved to Molecular Machine research (UK - PhD) and subsequently to chemical automation (Netherlands - Post-Doc).
 
-- 🔭 Currently working on ML guided chemical automation solutions for organic chemistry.
-- ✏️ Python / C++ / C#
+- 🔭 My current work focuses on the automation of chemical reaction development which involves:
+    1) Automation of chemical analysis (HPLC, Mass Spec, NMR and UV) both interms of hardware data processing.
+    2) Development of new hardware for reaction execution
+    3) Machine Learning guided reaction condition selection
+
+- ✏️ Python / C++ / C# - Mostly Python (Scheduling and ML) with low level device control in C++ or C#
 - 🌱 Working on upskilling my C# and .NET familiarity
 - 📙 Check out my <a href="https://www.noelresearchgroup.com/">resume<a>.
   
----
 
 ### 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,html,css,js" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,arduino,raspberrypi,vscode,pycharm" />
 </p>
 
----
 
 Feel free to reach out if you have any questions or just want to connect!
 
----
+<p align="center">
+        <img src="./Bottom.svg" alt="Github Stats" />
+</p>
