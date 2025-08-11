@@ -15,7 +15,7 @@
 </div>
     
 ### About Me
-I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a a background in chemical synthesis and hardware automation.
+I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a background in chemical synthesis and hardware automation.
 Orginally a pure chemist, my focus has been on natural product total synthesis and drug development (NZ - Masters + Industry). After a few years of this I moved to Molecular Machine research (UK - PhD) and subsequently to chemical automation (Netherlands - Post-Doc).
 
 - 🔭 My current work focuses on the automation of chemical reaction development which involves:
