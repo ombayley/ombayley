@@ -9,7 +9,7 @@ Orginally a pure synthetic chemist, (Masters - Total Synthesis [NZ]; Industry - 
 
 - 🔭 I currently work on automated reaction development which involves:
     1) Automation of chemical analysis (HPLC, NMR, Mass Spec, and UV) for both hardware automation and data processing.
-    2) Hardware development, particularly IoT Devices. <a href="10.26434/chemrxiv-2025-73xqf D O I: 10.26434/chemrxiv-2025-73xqf">See Latest Here.</a>
+    2) Hardware development, particularly IoT Devices. <a href="https://doi.org/10.26434/chemrxiv-2025-73xqf">See Latest Here.</a>
     3) Hardware scheduling and orchestration
     4) Integration of Machine Learning Models
        
