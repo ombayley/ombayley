@@ -18,7 +18,7 @@ Orginally a pure synthetic chemist, (Masters - Total Synthesis [NZ]; Industry - 
   
 ## Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,go,rust,java" width="360"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,rust,java" width="200"/>
 </p>
 
 ## Connect
