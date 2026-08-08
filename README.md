@@ -4,22 +4,21 @@
 </div>
     
 ## About Me
-I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a background in chemical synthesis and hardware automation.
-Orginally a pure synthetic chemist, (Masters - Total Synthesis [NZ]; Industry - Drug Development [NZ]; PhD - Molecular Machines [UK]) I have more recently moved into chemical automation [Netherlands].
+I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a background in chemical synthesis working on custom automation and machine learning systems.
+Orginally a pure synthetic chemist, (Masters - Total Synthesis [NZ]; Industry - Drug Development [NZ]; PhD - Molecular Machines [UK]) I more moved into chemical automation in 2023 [Netherlands].
 
 - 🔭 I currently work on automated reaction development which involves:
-    1) Automation of chemical analysis (HPLC, NMR, Mass Spec, and UV) for both hardware automation and data processing.
-    2) Hardware development, particularly IoT Devices. <a href="https://doi.org/10.26434/chemrxiv-2025-73xqf">See Latest Here.</a>
-    3) Hardware scheduling and orchestration
-    4) Integration of Machine Learning Models
+    1) Automation of chemical analysis (HPLC, NMR, Mass Spec, and UV).
+    2) Hardware development, including both the PCB design and firmware. <a href="https://doi.org/10.1038/s44160-026-01053-0">See Latest Here.</a>
+    3) Scheduling and orchestration software development
+    4) Development and Integration of Machine Learning Models
        
-- 👀 Interested in Embedded Systems, Hardware Automation, Data Analysis and Machine Learning
-- 🌱 Currently working on upskilling in C# and Rust
-- 📙 Check out my <a href="./Oliver Bayley CV_online.pdf">resume<a> or my <a href="https://ollybayley.netlify.app/">website</a> to know more
+- 👀 Interested in Embedded Systems, Automation, Data Analysis and Machine Learning
+- 📙 Check out my <a href="https://ollybayley.netlify.app/">portfolio</a> to know more
   
 ## Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,go,rust,java,html,css,js" width="360"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,rust,java" width="360"/>
 </p>
 
 ## Connect
