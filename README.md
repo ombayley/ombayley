@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h3>🙎 <a href="https://ollybayley.netlify.app/">Olly Bayley</a> | 💻 Chemical Automation | 📍 New Zealand -> UK -> Netherlands </h3>
+    <h3>🙎 <a href="https://ollybayley.dev/">Olly Bayley</a> | 💻 Chemical Automation | 📍 New Zealand -> UK -> Netherlands </h3>
 </div>
     
 ## About Me
