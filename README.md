@@ -1,29 +1,34 @@
 
 <div align="center">
-    <h3>🙎 <a href="https://ollybayley.dev/">Olly Bayley</a> | 💻 Chemical Automation | 📍 New Zealand -> UK -> Netherlands </h3>
+    <h2>🙎 <a href="https://ollybayley.dev/">Olly Bayley</a> | 💻 Research Engineer </h2>
 </div>
-    
-## About Me
-I'm a Post-Doctoral Researcher at the University of Amsterdam <a href="https://www.noelresearchgroup.com/">(NRG)<a> with a background in chemical synthesis working on custom automation and machine learning systems.
-Orginally a pure synthetic chemist, (Masters - Total Synthesis [NZ]; Industry - Drug Development [NZ]; PhD - Molecular Machines [UK]) I more moved into chemical automation in 2023 [Netherlands].
-
-- 🔭 I currently work on automated reaction development which involves:
-    1) Automation of chemical analysis (HPLC, NMR, Mass Spec, and UV).
-    2) Hardware development, including both the PCB design and firmware. <a href="https://doi.org/10.1038/s44160-026-01053-0">See Latest Here.</a>
-    3) Scheduling and orchestration software development
-    4) Development and Integration of Machine Learning Models
-       
-- 👀 Interested in Embedded Systems, Automation, Data Analysis and Machine Learning
-- 📙 Check out my <a href="https://ollybayley.netlify.app/">portfolio</a> to know more
-  
-## Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,go,rust,java" width="200"/>
+<p align="center">
+  <b>Machine Learning · Embedded Systems · Lab Automation</b><br/>
+  I build self-driving laboratories: ML that picks the experiment, hardware that runs it, and pipelines that close the     loop.
 </p>
 
-## Connect
-Feel free to reach out if you have any questions or just want to connect!
+    
+## About
+I'm a chemist turned engineer (PhD, University of Bristol). For the last three years at the University of Amsterdam ([Noël Research Group](https://www.noelresearchgroup.com/)) I've designed, built and operated the **full stack** of three self-driving labs — from Bayesian optimisation to scheduling agents to automated data processing down to C++ firmware and custom PCBs.
 
-<a href="mailto:o.m.bayley@uva.nl"><img src="https://img.icons8.com/?size=100&id=19408&format=png&color=000000" alt="Gmail" width="30"/></a>
-<a href="https://linkedin.com/in/ollybayleynz/"><img src="https://img.icons8.com/color/48/linkedin--v1.png" alt="LinkedIn" width="30"/></a>
-<a href="https://ollybayley.netlify.app/" target="_blank"><img src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000" alt="Website" width="30"/></a>
+- 📙 Check out my <a href="https://ollybayley.dev/">portfolio</a> to know more
+  
+### Selected publications
+
+- **A flexible and affordable self-driving laboratory for automated reaction optimization** — *Nature Synthesis*, 2026 · [doi](https://doi.org/10.1038/s44160-026-01053-0)
+- **Autonomous Control of Polymer Upcycling with a Self-Driving Laboratory** — *ChemRxiv*, 2026 · [doi](https://doi.org/10.26434/chemrxiv.15005284/v1)
+- **Autonomous Chemistry: Navigating Self-Driving Labs in Chemical and Material Sciences** — *Matter*, 2024 · [doi](https://doi.org/10.1016/j.matt.2024.06.003)
+
+### Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,pytorch,sklearn,arduino,raspberrypi,git,githubactions,linux" alt="Tech stack"/>
+</p>
+
+**ML:** BoTorch · Gaussian processes · XGBoost · scikit-learn · PyTorch Lightning · Optuna · RDKit
+**Engineering:** pytest · Pydantic · Hydra · GitHub Actions · MkDocs · asyncio · PyQt / Streamlit
+**Hardware:** KiCad · Klipper / Moonraker · Embassy (RP2350) · Autodesk Inventor · FDM printing
+
+---
+
+<p align="center"><i>Always happy to chat so reach out if you have any questions or just want to connect!</i></p>
